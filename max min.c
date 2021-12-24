@@ -2,7 +2,7 @@
 
 void main()
 {
-    int arr1[100];
+    int arr1[500];
     int i, mx, mn, n;
 	
 	
